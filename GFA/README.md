@@ -9,4 +9,4 @@ Some Atari ST programs : tools. intros. cracktros
 ---
 ## TOOLS
 ---
-## SNIPETS
+## SNIPPETS
