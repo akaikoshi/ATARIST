@@ -1,7 +1,5 @@
-# ATARIST / GFA
----
 Some Atari ST programs : tools. intros. cracktros
-> this is for testing
+> Have fun...
 ## DEMOS
 ### FUNK
 ### ROUGE
